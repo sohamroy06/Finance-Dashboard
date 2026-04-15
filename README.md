@@ -82,5 +82,3 @@ src/
 React 18 + Vite · Tailwind CSS v3 · Recharts · Zustand · Lucide React · Google Fonts (Playfair Display, DM Sans, JetBrains Mono)
 
 ---
-
-*Built for Zorvyn Frontend Internship Screening — 2025*
